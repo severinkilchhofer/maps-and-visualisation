@@ -39,14 +39,18 @@ document.addEventListener("DOMContentLoaded", () => {
                 .then(cities => {
 
 
+                    const scale = d3.scaleLinear()
+                        .domain([1, 12410])
+                        .range([5, 30]);
+
                     const cirlces = svg.selectAll('circle')
                         .data(cities)
                         .enter()
                         .append('circle')
                         .attr("cx", d => projection([d.lon, d.lat])[0])
                         .attr("cy", d => projection([d.lon, d.lat])[1])
-                        .attr("r", d => d.size / 3)
-                        .attr('fill', '#F86B33');
+                        .attr("r", d => scale(d.pop_in_k))
+                        .attr('fill', 'rgba(248, 156, 51, 0.9)')
                 })
         })
 
