@@ -1,0 +1,50 @@
+index,country,country_code,name,name_en,is_eu,city_code,lat,lon,pop_in_k,size
+1,Albania,8,Tiranë,Tirana,,20005,41.3275,19.8189,476,4.42
+2,Andorra,20,Andorra la Vella,Andorra la Vella,,20048,42.5078,1.5211,23,3.07
+3,Austria,40,Wien,Vienna,1,20107,48.2064,16.3707,1901,8.67
+4,Belarus,112,Minsk,Minsk,,20348,53.9,27.5667,2005,8.98
+5,Belgium,56,Bruxelles,Brussel,1,20144,50.8467,4.3499,2050,9.11
+6,Bosnia and Herzegovina,70,Sarajevo,Sarajevo,,20164,43.8486,18.3564,343,4.02
+7,Bulgaria,100,Sofia,Sofia,1,20327,42.6975,23.3242,1272,6.79
+8,Channel Islands,830,St. Helier,St. Helier,,22891,49.188,-2.1049,34,3.1
+9,Channel Islands,830,St. Peter Port,St. Peter Port,,205428,49.4598,-2.5353,16,3.04
+10,Croatia,191,Zagreb,Zagreb,1,20865,45.8144,15.978,686,5.04
+11,Czechia,203,Praha,Prague,1,20887,50.088,14.4208,1292,6.85
+12,Denmark,208,København,Copenhagen,1,20894,55.6759,12.5655,1321,6.94
+13,Estonia,233,Tallinn,Tallinn,1,20932,59.437,24.7535,437,4.3
+14,Faeroe Islands,234,Tórshavn,Tórshavn,,20934,62.0097,-6.7716,21,3.06
+15,Finland,246,Helsinki,Helsinki,1,20937,60.1692,24.9402,1279,6.81
+16,France,250,Paris,Paris,1,20985,48.8534,2.3488,10901,35.5
+17,Germany,276,Berlin,Berlin,1,204296,52.5244,13.4105,3552,13.59
+18,Gibraltar,292,Gibraltar,Gibraltar,,21111,36.1447,-5.3526,35,3.1
+19,Greece,300,Athínai,Athens,1,21113,37.9534,23.749,3156,12.41
+20,Holy See,336,Vatican City,Vatican City,,21134,41.9024,12.4533,1,3
+21,Hungary,348,Budapest,Busapest,1,21138,47.498,19.0399,1759,8.24
+22,Iceland,352,Reykjavík,Reykjavik,1,21147,64.1355,-21.8954,216,3.64
+23,Ireland,372,Dublin,Dublin,1,21542,53.3331,-6.2489,1201,6.58
+24,Isle of Man,833,Douglas,Douglas,,22892,54.15,-4.4833,27,3.08
+25,Italy,380,Roma,Rome,1,21588,41.8947,12.4811,4210,15.55
+26,Latvia,428,Riga,Riga,1,21778,56.946,24.1059,637,4.9
+27,Liechtenstein,438,Vaduz,Vaduz,,21783,47.1415,9.5215,5,3.01
+28,Lithuania,440,Vilnius,Vilnjus,1,21789,54.6892,25.2798,536,4.6
+29,Luxembourg,442,Luxembourg,Luxembourg,1,21790,49.6117,6.13,120,3.35
+30,Malta,470,Valletta,Valletta,1,21819,35.8997,14.5147,213,3.63
+31,Monaco,492,Monaco,Monaco,,21881,43.7333,7.4167,39,3.11
+32,Montenegro,499,Podgorica,Podgorica,,23256,42.4411,19.2636,177,3.52
+33,Netherlands,528,Amsterdam,Amsterdam,1,21930,52.374,4.8897,1132,6.37
+34,Norway,578,Oslo,Oslo,,22028,59.9127,10.7461,1012,6.01
+35,Poland,616,Warszawa,Warsaw,1,22161,52.2298,21.0118,1768,8.27
+36,Portugal,620,Lisboa,Lisbon,1,22167,38.7169,-9.1399,2927,11.72
+37,Republic of Moldova,498,Chişinău,Chişinău,,21885,47.0056,28.8575,510,4.52
+38,Romania,642,Bucuresti,Bucharest,1,22191,44.4328,26.1043,1821,8.43
+39,Russian Federation,643,Moskva,Moscow,,22299,55.755,37.6218,12410,40
+40,San Marino,674,San Marino,San Marino,,22411,43.9333,12.45,4,3.01
+41,Serbia,688,Beograd,Belgrade,,23241,44.8176,20.4633,1389,7.14
+42,Slovakia,703,Bratislava,Bratislava,1,22448,48.1482,17.1067,430,4.28
+43,Slovenia,705,Ljubljana,Ljubljana,1,22474,46.0511,14.5051,286,3.85
+44,Spain,724,Madrid,Madrid,1,22549,40.4165,-3.7026,6497,22.37
+45,Sweden,752,Stockholm,Stockholm,1,22597,59.3326,18.0649,1583,7.72
+46,Switzerland,756,Bern,Bern,,22601,46.9481,7.4474,422,4.26
+47,TFYR Macedonia,807,Skopje,Skopje,,22802,42,21.4333,584,4.74
+48,Ukraine,804,Kyiv,Kiev,,22765,50.4454,30.5186,2957,11.81
+49,United Kingdom,826,London,London,1,22860,51.5085,-0.1257,9046,29.97
